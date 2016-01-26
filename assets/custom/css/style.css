@@ -1143,13 +1143,14 @@ ul.sf-menu > li, .sf-menu > li > a {
 #header-wrapper-mp {
   /* Main menu for Main Page */ }
   #header-wrapper-mp #site-title {
-    float: left; }
+    float: left;}
     #header-wrapper-mp #site-title a {
       text-decoration: none; }
       #header-wrapper-mp #site-title a h1 {
         font-size: 44px;
         margin-top: 37px;
-        text-transform: uppercase; }
+        text-transform: uppercase;
+        font-family: 'Crimson Text', serif !important;  }
         #header-wrapper-mp #site-title a h1 i {
           margin-right: 14px;
           font-weight: normal !important; }
